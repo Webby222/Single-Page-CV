@@ -1,7 +1,3 @@
-Here's the corrected version of your README file:
-
----
-
 # CV Project
 
 ## Project Overview
