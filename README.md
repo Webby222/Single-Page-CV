@@ -49,6 +49,4 @@ This project provides a solid understanding of how to create a single-page CV us
 
 ---
 
-**project URL**:[link](https://roadmap.sh/projects/single-page-cv)
 
----
